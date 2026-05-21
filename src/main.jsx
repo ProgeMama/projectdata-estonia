@@ -15,7 +15,7 @@ import {
 } from 'lucide-react'
 import './index.css'
 
-const GPT_LINK = 'https://chatgpt.com/g/https://chatgpt.com/g/g-abc123-projectdata-estonia'
+const GPT_LINK = 'https://chatgpt.com/g/g-6a0eb69159808191a4cae529fb3a9f94-projectdata-estonia'
 
 function Button({ children, variant = 'primary', className = '', ...props }) {
   const base =
